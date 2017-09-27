@@ -1,0 +1,1 @@
+It tell us what is zodiac animal in current year. I used for this an associative array.
